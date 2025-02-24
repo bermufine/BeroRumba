@@ -5,13 +5,13 @@
       "name": "Movies",
       "videos": [
         {
-          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
-            "http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"
+            "http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8"
           ],
           "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
-          "titleTrace": "TRACE KITOKO"
+          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
+          "titleTrace": "NICK MUSIC"
         },
         {
           "descriptionTrace": "Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international",
@@ -66,15 +66,6 @@
           "subtitleTrace": "By Channel",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5NDRf/dbm",
           "titleTrace": "DBN TV"
-        },
-        {
-          "descriptionTrace": "Tele Musik TV est la chaine privee du senegal consacree au music....",
-          "sourceTrace": [
-            "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
-          "titleTrace": "TELE MUSIK"
         },
         {
           "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
@@ -278,3 +269,14 @@
     }
   ]
 }
+
+
+ {
+          "descriptionTrace": "Tele Musik TV est la chaine privee du senegal consacree au music....",
+          "sourceTrace": [
+            "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
+          "titleTrace": "TELE MUSIK"
+        },
