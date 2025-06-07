@@ -4,6 +4,33 @@
     {
       "name": "Movies",
       "videos": [
+         {
+          "descriptionTrace": "Vevo Hip-Hop & R&B est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDVf/vevorb.png",
+          "titleTrace": "Vevo Hip & R&B"
+        },
+        {
+          "descriptionTrace": "Vevo Pop Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDRf/vevomusic.png",
+          "titleTrace": "VEVO POP"
+        },
+         {
+          "descriptionTrace": "6 Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "http://145.239.5.177/320/index.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDQyMzBf/6music.jpeg",
+          "titleTrace": "6 MUSIC TV"
+        },
         {
           "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
@@ -27,16 +54,52 @@
           "sourceTrace": [
             "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "ALL Channel",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
           "titleTrace": "TRACE URBAN"
         },
+        {
+          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "sourceTrace": [
+            "http://145.239.5.177/205/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
+          "titleTrace": "TRACE AFRICA"
+        },
+           {
+          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
+          "sourceTrace": [
+            "http://145.239.5.177/210/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
+          "titleTrace": "TRACE KITOKO TV"
+        },
+        {
+          "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
+          "sourceTrace": [
+            "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
+          "titleTrace": "TRACE IVOIRE"
+        },
+        {
+          "descriptionTrace": "Trace Latine est une chaîne de télévision de la musique latine",
+          "sourceTrace": [
+            "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
+          "titleTrace": "TRACE LATINE"
+        }
         {
           "descriptionTrace": "Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe",
           "sourceTrace": [
             "https://stream.ecable.tv/afrobeats/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yOTEwMjk3MDBf/afrobeats.jpg",
           "titleTrace": "AFROBEATS"
         },
@@ -63,18 +126,9 @@
           "sourceTrace": [
             "https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5NDRf/dbm",
           "titleTrace": "DBN TV"
-        },
-        {
-          "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
-          "sourceTrace": [
-            "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
-          "titleTrace": "TRACE IVOIRE"
         },
         {
           "descriptionTrace": "V2beat TV est la chaîne consacree à la musique internationale",
@@ -95,20 +149,11 @@
           "titleTrace": "PULSE P TV"
         },
         {
-          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
-          "sourceTrace": [
-            "http://145.239.5.177/205/index.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
-          "titleTrace": "TRACE AFRICA"
-        },
-        {
           "descriptionTrace": "BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
           "sourceTrace": [
             "https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png",
           "titleTrace": "BAZIK TV"
         },
@@ -117,7 +162,7 @@
           "sourceTrace": [
             "https://bazikrumba.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg",
           "titleTrace": "BAZIK RUMBA"
         },
@@ -194,15 +239,6 @@
           "titleTrace": "NU VIEW TV"
         },
         {
-          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
-          "sourceTrace": [
-            "http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
-          "titleTrace": "TRACE KITOKO TV"
-        },
-        {
           "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"
@@ -246,24 +282,6 @@
           "subtitleTrace": "By Channel",
           "thumbTrace": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
           "titleTrace": "MY MUSIC"
-        },
-        {
-          "descriptionTrace": "Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg",
-          "titleTrace": "TRACE URBAN"
-        },
-        {
-          "descriptionTrace": "Trace Latine est une chaîne de télévision de la musique latine",
-          "sourceTrace": [
-            "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
-          "titleTrace": "TRACE LATINE"
         }
       ]
     }
@@ -279,4 +297,13 @@
           "subtitleTrace": "By Channel",
           "thumbTrace": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
           "titleTrace": "TELE MUSIK"
+        },
+        {
+          "descriptionTrace": "Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
+          "titleTrace": "TRACE URBAN"
         },
