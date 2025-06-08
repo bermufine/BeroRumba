@@ -45,7 +45,7 @@
           "sourceTrace": [
             "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
           "titleTrace": "TRACE UK"
         },
@@ -54,7 +54,7 @@
           "sourceTrace": [
             "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png",
           "titleTrace": "TRACE BAZUKA"
         },
@@ -99,10 +99,10 @@
           "sourceTrace": [
             "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
           "titleTrace": "TRACE LATINE"
-        }
+        },
         {
           "descriptionTrace": "Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe",
           "sourceTrace": [
@@ -117,7 +117,7 @@
           "sourceTrace": [
             "http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg",
           "titleTrace": "AFROBIT TV"
         },
@@ -126,7 +126,7 @@
           "sourceTrace": [
             "https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png",
           "titleTrace": "OBOSSO TV"
         },
@@ -144,7 +144,7 @@
           "sourceTrace": [
             "https://de1se01.v2beat.live/playlist.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yODYzNTQ5OTJf/v2beat.jpeg",
           "titleTrace": "V2BEAT TV"
         },
@@ -153,45 +153,9 @@
           "sourceTrace": [
             "https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg",
           "titleTrace": "PULSE P TV"
-        },
-        {
-          "descriptionTrace": "BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
-          "sourceTrace": [
-            "https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "thumbTrace": "https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png",
-          "titleTrace": "BAZIK TV"
-        },
-        {
-          "descriptionTrace": "BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
-          "sourceTrace": [
-            "https://bazikrumba.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "thumbTrace": "https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg",
-          "titleTrace": "BAZIK RUMBA"
-        },
-        {
-          "descriptionTrace": "BAZIK Africa c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
-          "sourceTrace": [
-            "https://bazikafrica.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yNjk4NjQ1MTZf/bazikafrica.png",
-          "titleTrace": "BAZIK AFRICA"
-        },
-        {
-          "descriptionTrace": "BAZIK HOT TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
-          "sourceTrace": [
-            "https://edge18.vedge.infomaniak.com/livecast/ik:bazikhot/chunklist_w659097606.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yOTEwMjk1MzRf/bazikhot.jpg",
-          "titleTrace": "BAZIK HOT"
         },
         {
           "descriptionTrace": "MCM TOP 10 TV est une chaîne télévisée spécialisée dans la musique international",
@@ -248,6 +212,83 @@
           "titleTrace": "NU VIEW TV"
         },
         {
+          "descriptionTrace": "Muzik est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png",
+          "titleTrace": "MUZIK"
+        },
+        {
+          "descriptionTrace": "MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "http://mntv.livebox.co.in/musichls/live.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
+          "titleTrace": "MY MUSIC"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+ {
+          "descriptionTrace": "BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
+          "sourceTrace": [
+            "https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png",
+          "titleTrace": "BAZIK TV"
+        },
+        {
+          "descriptionTrace": "BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
+          "sourceTrace": [
+            "https://bazikrumba.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "thumbTrace": "https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg",
+          "titleTrace": "BAZIK RUMBA"
+        },
+        {
+          "descriptionTrace": "BAZIK Africa c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
+          "sourceTrace": [
+            "https://bazikafrica.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yNjk4NjQ1MTZf/bazikafrica.png",
+          "titleTrace": "BAZIK AFRICA"
+        },
+        {
+          "descriptionTrace": "BAZIK HOT TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
+          "sourceTrace": [
+            "https://edge18.vedge.infomaniak.com/livecast/ik:bazikhot/chunklist_w659097606.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yOTEwMjk1MzRf/bazikhot.jpg",
+          "titleTrace": "BAZIK HOT"
+        },
+ {
+          "descriptionTrace": "Tele Musik TV est la chaine privee du senegal consacree au music....",
+          "sourceTrace": [
+            "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
+          "titleTrace": "TELE MUSIK"
+        },
+        {
           "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"
@@ -273,39 +314,6 @@
           "subtitleTrace": "By Channel",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
           "titleTrace": "BLACK CLASSIC"
-        },
-        {
-          "descriptionTrace": "Muzik est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png",
-          "titleTrace": "MUZIK"
-        },
-        {
-          "descriptionTrace": "MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "http://mntv.livebox.co.in/musichls/live.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
-          "titleTrace": "MY MUSIC"
-        }
-      ]
-    }
-  ]
-}
-
-
- {
-          "descriptionTrace": "Tele Musik TV est la chaine privee du senegal consacree au music....",
-          "sourceTrace": [
-            "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
-          "titleTrace": "TELE MUSIK"
         },
         {
           "descriptionTrace": "Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
