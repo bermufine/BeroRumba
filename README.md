@@ -27,7 +27,7 @@
           "sourceTrace": [
             "http://145.239.5.177/320/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQyMzBf/6music.jpeg",
           "titleTrace": "6 MUSIC TV"
         },
@@ -36,9 +36,18 @@
           "sourceTrace": [
             "http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
           "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
           "titleTrace": "NICK MUSIC"
+        },
+        {
+          "descriptionTrace": "Trace UK TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
+          "titleTrace": "TRACE UK"
         },
         {
           "descriptionTrace": "Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international",
