@@ -10,6 +10,8 @@
             "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "800",
+          "numberTrace": "800",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDVf/vevorb.png",
           "titleTrace": "Vevo Hip & R&B"
         },
@@ -19,6 +21,7 @@
             "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "801",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDRf/vevomusic.png",
           "titleTrace": "VEVO POP"
         },
@@ -28,6 +31,7 @@
             "http://145.239.5.177/320/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "802",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQyMzBf/6music.jpeg",
           "titleTrace": "6 MUSIC TV"
         },
@@ -37,6 +41,7 @@
             "http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "803",
           "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
           "titleTrace": "NICK MUSIC"
         },
@@ -46,6 +51,7 @@
             "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "804",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
           "titleTrace": "TRACE UK"
         },
@@ -55,6 +61,7 @@
             "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "805",
           "thumbTrace": "https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png",
           "titleTrace": "TRACE BAZUKA"
         },
@@ -64,6 +71,7 @@
             "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
           ],
           "subtitleTrace": "ALL Channel",
+          "numberTrace": "806",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
           "titleTrace": "TRACE URBAN"
         },
@@ -73,6 +81,7 @@
             "http://145.239.5.177/205/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "807",
           "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
           "titleTrace": "TRACE AFRICA"
         },
@@ -82,6 +91,7 @@
             "http://145.239.5.177/210/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "808",
           "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
           "titleTrace": "TRACE KITOKO TV"
         },
@@ -91,6 +101,7 @@
             "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "809",
           "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
           "titleTrace": "TRACE IVOIRE"
         },
@@ -100,6 +111,7 @@
             "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "810",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
           "titleTrace": "TRACE LATINE"
         },
@@ -109,6 +121,7 @@
             "https://stream.ecable.tv/afrobeats/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "811",
           "thumbTrace": "https://od.lk/s/M18yOTEwMjk3MDBf/afrobeats.jpg",
           "titleTrace": "AFROBEATS"
         },
@@ -118,6 +131,7 @@
             "http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "812",
           "thumbTrace": "https://od.lk/s/M18yNDU0NzcyNzRf/afrobeats.jpg",
           "titleTrace": "AFROBIT TV"
         },
@@ -127,6 +141,7 @@
             "https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "813",
           "thumbTrace": "https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png",
           "titleTrace": "OBOSSO TV"
         },
@@ -136,6 +151,7 @@
             "https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "814",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5NDRf/dbm",
           "titleTrace": "DBN TV"
         },
@@ -145,6 +161,7 @@
             "https://de1se01.v2beat.live/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "815",
           "thumbTrace": "https://od.lk/s/M18yODYzNTQ5OTJf/v2beat.jpeg",
           "titleTrace": "V2BEAT TV"
         },
@@ -154,6 +171,7 @@
             "https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
+          "numberTrace": "816",
           "thumbTrace": "https://od.lk/s/M18yODYwMDA2ODdf/pulsep.jpg",
           "titleTrace": "PULSE P TV"
         },
@@ -162,7 +180,8 @@
           "sourceTrace": [
             "http://ott-cdn.ucom.am/s49/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "817",
           "thumbTrace": "https://od.lk/s/M18yODY1NjM2Njlf/mcmtop.png",
           "titleTrace": "MCM TOP 10"
         },
@@ -171,7 +190,8 @@
           "sourceTrace": [
             "https://59d39900ebfb8.streamlock.net:443/RTHAITIANA/RTHAITIANA/chunklist_w1180876317.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "818",
           "thumbTrace": "https://od.lk/s/M18yODgxNTgwNDVf/ayisyane.jpg",
           "titleTrace": "AYISYANA MUSIK TV"
         },
@@ -180,7 +200,8 @@
           "sourceTrace": [
             "http://hls.tmacaraibes.com/live/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "819",
           "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjhf/tma.jpeg",
           "titleTrace": "T.M.A CARAÏBES"
         },
@@ -189,7 +210,8 @@
           "sourceTrace": [
             "http://50.7.237.4:8080/MTVHITS/index.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "820",
           "thumbTrace": "https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png",
           "titleTrace": "MTV HITS"
         },
@@ -198,7 +220,8 @@
           "sourceTrace": [
             "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "821",
           "thumbTrace": "https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg",
           "titleTrace": "HMI PROMZ NEWS"
         },
@@ -207,7 +230,8 @@
           "sourceTrace": [
             "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4295"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "822",
           "thumbTrace": "https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg",
           "titleTrace": "NU VIEW TV"
         },
@@ -216,7 +240,8 @@
           "sourceTrace": [
             "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "823",
           "thumbTrace": "https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png",
           "titleTrace": "MUZIK"
         },
@@ -225,7 +250,8 @@
           "sourceTrace": [
             "http://mntv.livebox.co.in/musichls/live.m3u8"
           ],
-          "subtitleTrace": "By Channel",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "824",
           "thumbTrace": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
           "titleTrace": "MY MUSIC"
         }
