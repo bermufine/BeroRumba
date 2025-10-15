@@ -4,6 +4,16 @@
     {
       "name": "Movies",
       "videos": [
+          {
+          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "803",
+          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
+          "titleTrace": "NICK MUSIC"
+        },
          {
           "descriptionTrace": "Vevo Hip-Hop & R&B est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
@@ -25,6 +35,17 @@
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDRf/vevomusic.png",
           "titleTrace": "VEVO POP"
         },
+           {
+          "descriptionTrace": "P2M TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "800",
+          "numberTrace": "800",
+          "thumbTrace": "https://od.lk/s/NDZfODcwMjYwOTBf/p2mtv.jpg",
+          "titleTrace": "P2M TV"
+        },
          {
           "descriptionTrace": "6 Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
@@ -36,14 +57,26 @@
           "titleTrace": "6 MUSIC TV"
         },
         {
-          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "descriptionTrace": "BET SOUL est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
-            "http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8"
+            "https://fl7.moveonjoy.com/BET_SOUL/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "803",
-          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
-          "titleTrace": "NICK MUSIC"
+          "numberTrace": "800",
+          "numberTrace": "800",
+          "thumbTrace": "https://od.lk/s/NDZfODcwMjUzNjlf/betsoul.png",
+          "titleTrace": "BET SOUL"
+        },
+         {
+          "descriptionTrace": "BET Jams est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl7.moveonjoy.com/BET_Jams/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "800",
+          "numberTrace": "800",
+          "thumbTrace": "https://od.lk/s/NDZfODcwMjU1NTRf/betjams.jpg",
+          "titleTrace": "BET JAMS"
         },
         {
           "descriptionTrace": "Trace UK TV est une chaîne télévisée spécialisée dans la musique international",
