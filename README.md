@@ -35,7 +35,17 @@
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDRf/vevomusic.png",
           "titleTrace": "VEVO POP"
         },
-           {
+        {
+          "descriptionTrace": "Tele Rumba est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://inliveserver.com:1936/18506/18506/chunklist_w1589533853.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "801",
+          "thumbTrace": "https://od.lk/s/NDZfODUxNTg4NzNf/telerumb.png",
+          "titleTrace": "TELE RUMBA"
+        },
+        {
           "descriptionTrace": "P2M TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "https://vdo2.pro-fhi.net:3207/stream/play.m3u8"
@@ -239,14 +249,14 @@
           "titleTrace": "T.M.A CARAÏBES"
         },
         {
-          "descriptionTrace": "MTV HITS est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "descriptionTrace": "Amusic est une chaîne télévisée spécialisée dans la musique africaine et international.",
           "sourceTrace": [
-            "http://50.7.237.4:8080/MTVHITS/index.m3u8"
+            "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "820",
-          "thumbTrace": "https://od.lk/s/M18yODMzMTMwNzNf/mtvhits.png",
-          "titleTrace": "MTV HITS"
+          "thumbTrace": "https://od.lk/s/NDZfODUxNTg4NjNf/Amusic.jpeg",
+          "titleTrace": "A MUSIC"
         },
         {
           "descriptionTrace": "HMI PROMZ NEWS is an independent communication and multimedia company working in the promotion, distribution, production of Haitian music and culture in general. This  multidimensional company was founded on  March 30, 2019 by career journalist  Claude Bellevue, gathering around him, a group of professionals  working in the field of information,  public relations, major events,  marketing, audiovisual, staging, lighting, sound and artistic creation in order to offer an international audience to the rich Haitian culture",
@@ -257,16 +267,6 @@
           "numberTrace": "821",
           "thumbTrace": "https://od.lk/s/M18yOTE2NzM5Mjdf/hmipromz.jpeg",
           "titleTrace": "HMI PROMZ NEWS"
-        },
-        {
-          "descriptionTrace": "Nu View a music channel from south africa",
-          "sourceTrace": [
-            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4295"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "822",
-          "thumbTrace": "https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg",
-          "titleTrace": "NU VIEW TV"
         },
         {
           "descriptionTrace": "Muzik est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
@@ -287,6 +287,16 @@
           "numberTrace": "824",
           "thumbTrace": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
           "titleTrace": "MY MUSIC"
+        },
+         {
+          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "803",
+          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
+          "titleTrace": "NICK MUSIC"
         }
       ]
     }
@@ -302,6 +312,16 @@
 
 
 
+ {
+          "descriptionTrace": "Nu View a music channel from south africa",
+          "sourceTrace": [
+            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4295"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "822",
+          "thumbTrace": "https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg",
+          "titleTrace": "NU VIEW TV"
+        },
  {
           "descriptionTrace": "BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
           "sourceTrace": [
