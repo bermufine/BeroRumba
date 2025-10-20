@@ -7,7 +7,7 @@
           {
           "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
-            "https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8"
+            "https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "803",
@@ -288,10 +288,20 @@
           "thumbTrace": "https://od.lk/s/M18yODM2MDkxNDJf/dfive.png",
           "titleTrace": "MY MUSIC"
         },
+        {
+          "descriptionTrace": "Persiana Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "824",
+          "thumbTrace": "https://od.lk/s/NDZfODcyNjg0MjJf/persianamusic.jpeg",
+          "titleTrace": "O MUSIC"
+        },
          {
           "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
-            "https://fl7.moveonjoy.com/NICK_MUSIC/index.m3u8"
+            "https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "803",
