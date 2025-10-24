@@ -7,7 +7,7 @@
           {
           "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
-            "https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8"
+            "https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "803",
