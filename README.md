@@ -17,7 +17,7 @@
           {
           "descriptionTrace": "Biso Music TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
-            "http://37.187.138.41:80/BisoMusic/index.m3u8"
+            "http://37.187.138.41:80/BIsoMusic/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "880",
