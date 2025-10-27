@@ -14,13 +14,22 @@
           "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
           "titleTrace": "NICK MUSIC"
         },
+          {
+          "descriptionTrace": "Biso Music TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "http://37.187.138.41:80/BisoMusic/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "880",
+          "thumbTrace": "https://od.lk/s/NDZfODc0NTg1Mzdf/bMusic.jpg",
+          "titleTrace": "BISO MUSIC"
+        },
          {
           "descriptionTrace": "Vevo Hip-Hop & R&B est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "800",
           "numberTrace": "800",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQzMDVf/vevorb.png",
           "titleTrace": "Vevo Hip & R&B"
@@ -52,7 +61,6 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "800",
-          "numberTrace": "800",
           "thumbTrace": "https://od.lk/s/NDZfODcwMjYwOTBf/p2mtv.jpg",
           "titleTrace": "P2M TV"
         },
@@ -73,7 +81,6 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "800",
-          "numberTrace": "800",
           "thumbTrace": "https://od.lk/s/NDZfODcwMjUzNjlf/betsoul.png",
           "titleTrace": "BET SOUL"
         },
@@ -83,7 +90,6 @@
             "https://fl7.moveonjoy.com/BET_Jams/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "800",
           "numberTrace": "800",
           "thumbTrace": "https://od.lk/s/NDZfODcwMjU1NTRf/betjams.jpg",
           "titleTrace": "BET JAMS"
