@@ -67,7 +67,7 @@
         {
           "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
           "sourceTrace": [
-            "http://145.239.5.177/205/index.m3u8"
+            "http://145.239.5.177/206/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "807",
