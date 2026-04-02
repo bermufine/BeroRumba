@@ -4,17 +4,97 @@
     {
       "name": "Movies",
       "videos": [
-          {
-          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+         {
+          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
           "sourceTrace": [
-            "https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8"
+            "https://channels.trace.plus/Traceprod/KITOKO/.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "803",
-          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
-          "titleTrace": "NICK MUSIC"
+          "numberTrace": "808",
+          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
+          "titleTrace": "TRACE KITOKO"
         },
-          {
+        {
+          "descriptionTrace": "Trace Naija TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/NAIJA/.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "804",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
+          "titleTrace": "TRACE NAIJA"
+        },
+              {
+          "descriptionTrace": "Trace UK TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "804",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
+          "titleTrace": "TRACE UK"
+        },
+         {
+          "descriptionTrace": "Trace Brazil TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/BRAZIL/.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "804",
+          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
+          "titleTrace": "TRACE BRASIL"
+        },
+        {
+          "descriptionTrace": "Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "805",
+          "thumbTrace": "https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png",
+          "titleTrace": "TRACE BAZUKA"
+        },
+        {
+          "descriptionTrace": "Trace Urbain TV est la chaine consacrée à la musique d'Afrique et internationale....",
+          "sourceTrace": [
+            "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleTrace": "ALL Channel",
+          "numberTrace": "806",
+          "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
+          "titleTrace": "TRACE URBAN"
+        },
+        {
+          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "sourceTrace": [
+            "http://145.239.5.177/205/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "807",
+          "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
+          "titleTrace": "TRACE AFRICA"
+        },
+        {
+          "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
+          "sourceTrace": [
+            "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "809",
+          "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
+          "titleTrace": "TRACE IVOIRE"
+        },
+        {
+          "descriptionTrace": "Trace Latine est une chaîne de télévision de la musique latine",
+          "sourceTrace": [
+            "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "810",
+          "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
+          "titleTrace": "TRACE LATINE"
+        },   
+        {
           "descriptionTrace": "Biso Music TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "http://37.187.138.41:80/BIsoMusic/index.m3u8"
@@ -73,96 +153,6 @@
           "numberTrace": "802",
           "thumbTrace": "https://od.lk/s/NDZfODIxNDQyMzBf/6music.jpeg",
           "titleTrace": "6 MUSIC TV"
-        },
-        {
-          "descriptionTrace": "BET SOUL est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "https://fl7.moveonjoy.com/BET_SOUL/index.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "800",
-          "thumbTrace": "https://od.lk/s/NDZfODcwMjUzNjlf/betsoul.png",
-          "titleTrace": "BET SOUL"
-        },
-         {
-          "descriptionTrace": "BET Jams est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "https://fl7.moveonjoy.com/BET_Jams/index.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "800",
-          "thumbTrace": "https://od.lk/s/NDZfODcwMjU1NTRf/betjams.jpg",
-          "titleTrace": "BET JAMS"
-        },
-        {
-          "descriptionTrace": "Trace UK TV est une chaîne télévisée spécialisée dans la musique international",
-          "sourceTrace": [
-            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "804",
-          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
-          "titleTrace": "TRACE UK"
-        },
-        {
-          "descriptionTrace": "Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique international",
-          "sourceTrace": [
-            "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "805",
-          "thumbTrace": "https://od.lk/s/M18yODgxNTc5NzRf/brazuca.png",
-          "titleTrace": "TRACE BAZUKA"
-        },
-        {
-          "descriptionTrace": "Trace Urbain TV est la chaine consacrée à la musique d'Afrique et internationale....",
-          "sourceTrace": [
-            "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
-          ],
-          "subtitleTrace": "ALL Channel",
-          "numberTrace": "806",
-          "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
-          "titleTrace": "TRACE URBAN"
-        },
-        {
-          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
-          "sourceTrace": [
-            "http://145.239.5.177/205/index.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "807",
-          "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
-          "titleTrace": "TRACE AFRICA"
-        },
-           {
-          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
-          "sourceTrace": [
-            "http://145.239.5.177/210/index.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "808",
-          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
-          "titleTrace": "TRACE KITOKO TV"
-        },
-        {
-          "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
-          "sourceTrace": [
-            "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "809",
-          "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
-          "titleTrace": "TRACE IVOIRE"
-        },
-        {
-          "descriptionTrace": "Trace Latine est une chaîne de télévision de la musique latine",
-          "sourceTrace": [
-            "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "810",
-          "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
-          "titleTrace": "TRACE LATINE"
         },
         {
           "descriptionTrace": "Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe",
@@ -304,6 +294,33 @@
           "thumbTrace": "https://od.lk/s/NDZfODcyNjg0MjJf/persianamusic.jpeg",
           "titleTrace": "O MUSIC"
         },
+            {
+          "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
+          "titleTrace": "BLACK AFRICA"
+        },
+        {
+          "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
+          "titleTrace": "BLACK CARIBEAN"
+        },
+        {
+          "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8"
+          ],
+          "subtitleTrace": "By Channel",
+          "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
+          "titleTrace": "BLACK CLASSIC"
+        },
          {
           "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
@@ -383,33 +400,7 @@
           "thumbTrace": "https://od.lk/s/M18yOTEwMjQ3MTBf/telemusiksenegal.png",
           "titleTrace": "TELE MUSIK"
         },
-        {
-          "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
-          "titleTrace": "BLACK AFRICA"
-        },
-        {
-          "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
-          "titleTrace": "BLACK CARIBEAN"
-        },
-        {
-          "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
-          "sourceTrace": [
-            "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8"
-          ],
-          "subtitleTrace": "By Channel",
-          "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
-          "titleTrace": "BLACK CLASSIC"
-        },
+    
         {
           "descriptionTrace": "Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
@@ -418,4 +409,35 @@
           "subtitleTrace": "By Channel",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
           "titleTrace": "TRACE URBAN"
+        },
+
+        {
+          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "803",
+          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
+          "titleTrace": "NICK MUSIC"
+        },
+        {
+          "descriptionTrace": "BET SOUL est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl7.moveonjoy.com/BET_SOUL/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "800",
+          "thumbTrace": "https://od.lk/s/NDZfODcwMjUzNjlf/betsoul.png",
+          "titleTrace": "BET SOUL"
+        },
+         {
+          "descriptionTrace": "BET Jams est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl7.moveonjoy.com/BET_Jams/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "800",
+          "thumbTrace": "https://od.lk/s/NDZfODcwMjU1NTRf/betjams.jpg",
+          "titleTrace": "BET JAMS"
         },
