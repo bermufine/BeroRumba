@@ -65,14 +65,14 @@
           "titleTrace": "TRACE URBAN"
         },
         {
-          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "descriptionTrace": "Trace MZIKI est une chaîne télévisée spécialisée dans la musique africaine et international.",
           "sourceTrace": [
-            "http://145.239.5.177/206/index.m3u8"
+            "https://channels.trace.plus/Traceprod/MZIKI/.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "807",
           "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NDlf/tracemziki.png",
-          "titleTrace": "TRACE AFRICA"
+          "titleTrace": "TRACE MZIKI"
         },
         {
           "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
@@ -93,7 +93,17 @@
           "numberTrace": "810",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
           "titleTrace": "TRACE LATINE"
-        },   
+        },
+          {
+          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "sourceTrace": [
+            "http://145.239.5.177/206/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "807",
+          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NjVf/traceAfricatv.png",
+          "titleTrace": "TRACE AFRICA"
+        },
         {
           "descriptionTrace": "Biso Music TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
