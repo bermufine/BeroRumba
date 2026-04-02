@@ -321,15 +321,15 @@
           "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
           "titleTrace": "BLACK CLASSIC"
         },
-         {
-          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+        {
+          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
           "sourceTrace": [
-            "https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8"
+            "https://channels.trace.plus/Traceprod/KITOKO/.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "803",
-          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
-          "titleTrace": "NICK MUSIC"
+          "numberTrace": "808",
+          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
+          "titleTrace": "TRACE KITOKO"
         }
       ]
     }
@@ -355,6 +355,17 @@
           "thumbTrace": "https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg",
           "titleTrace": "NU VIEW TV"
         },
+
+         {
+          "descriptionTrace": "Nick Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "sourceTrace": [
+            "https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "803",
+          "thumbTrace": "https://od.lk/s/NDZfNzgyNTkwODZf/nickMusic.jpg",
+          "titleTrace": "NICK MUSIC"
+        }
  {
           "descriptionTrace": "BAZIK TV c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK RAP, BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa. Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo Canal 19, ainsi que sur le bouquet BRAVO de l’application BLEU OTT Canal 33.",
           "sourceTrace": [
