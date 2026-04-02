@@ -21,7 +21,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "804",
-          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
+          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
           "titleTrace": "TRACE NAIJA"
         },
               {
@@ -41,7 +41,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "804",
-          "thumbTrace": "https://od.lk/s/NDZfODIxNDcyOTRf/traceuk.jpeg",
+          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NDhf/tracebrasil.png",
           "titleTrace": "TRACE BRASIL"
         },
         {
@@ -71,7 +71,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "807",
-          "thumbTrace": "https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
+          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NDlf/tracemziki.png",
           "titleTrace": "TRACE AFRICA"
         },
         {
