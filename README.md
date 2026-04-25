@@ -31,7 +31,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "810",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTZf/tracetoca.png",
           "titleTrace": "TRACE TOCA"
         },
         {
@@ -41,7 +41,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "811",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTdf/tracevanilla.png",
           "titleTrace": "TRACE VANILLA"
         },
         {
@@ -51,7 +51,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "812",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTNf/tracemboa.png",
           "titleTrace": "TRACE MBOA"
         },
         {
@@ -61,7 +61,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "813",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMDlf/tracecaribbean.png",
           "titleTrace": "TRACE CARIBBEAN"
         },
         {
@@ -71,7 +71,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "814",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTVf/traceteranga.png",
           "titleTrace": "TRACE TERANGA"
         },
         {
@@ -81,7 +81,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "815",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTBf/tracejama.png",
           "titleTrace": "TRACE JAMA"
         },
         {
@@ -91,7 +91,7 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "816",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMDhf/traceayiti.png",
           "titleTrace": "TRACE AYITI"
         },
         {
@@ -101,8 +101,18 @@
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "817",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NTBf/tracenaija.png",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTRf/tracemuzika.png",
           "titleTrace": "TRACE MUZIKA"
+        },
+           {
+          "descriptionTrace": "Trace Latina est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/LATINA/.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "818",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTFf/tracelatine.png",
+          "titleTrace": "TRACE LATINA"
         },
         {
           "descriptionTrace": "Trace Brazil TV est une chaîne télévisée spécialisée dans la musique international",
@@ -110,7 +120,7 @@
             "https://channels.trace.plus/Traceprod/BRAZIL/.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "818",
+          "numberTrace": "819",
           "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NDhf/tracebrasil.png",
           "titleTrace": "TRACE BRASIL"
         },
@@ -120,7 +130,7 @@
             "https://channels.trace.plus/Traceprod/MZIKI/.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "819",
+          "numberTrace": "820",
           "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NDlf/tracemziki.png",
           "titleTrace": "TRACE MZIKI"
         },
@@ -145,11 +155,12 @@
           "titleTrace": "TRACE BAZUKA"
         },
         {
-          "descriptionTrace": "Trace Urban est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
+          "descriptionTrace": "Trace Urban TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
             "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"
           ],
-          "subtitleTrace": "822 B",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "821",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
           "titleTrace": "TRACE URBAN"
         },
