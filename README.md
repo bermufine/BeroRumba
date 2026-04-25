@@ -404,21 +404,23 @@
           "thumbTrace": "https://od.lk/s/NDZfODcyNjg0MjJf/persianamusic.jpeg",
           "titleTrace": "O MUSIC"
         },
-            {
+        {
           "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8"
           ],
-          "subtitleTrace": "846",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "846",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
           "titleTrace": "BLACK AFRICA"
-        },
+        },  
         {
           "descriptionTrace": "Black Musique est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
           "sourceTrace": [
             "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8"
           ],
-          "subtitleTrace": "847",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "847",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
           "titleTrace": "BLACK CARIBEAN"
         },
@@ -427,7 +429,8 @@
           "sourceTrace": [
             "http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8"
           ],
-          "subtitleTrace": "848",
+          "subtitleTrace": "All Channel",
+          "numberTrace": "848",
           "thumbTrace": "https://od.lk/s/M18yODY0NjQyNTBf/bblack.jpg",
           "titleTrace": "BLACK CLASSIC"
         },
