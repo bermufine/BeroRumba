@@ -97,7 +97,7 @@
         {
           "descriptionTrace": "Trace Muzika TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
-            "https://channels.trace.plus/Traceprod/MUZKA/.m3u8"
+            "https://channels.trace.plus/Traceprod/MUZIKA/.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "817",
@@ -183,16 +183,6 @@
           "numberTrace": "823",
           "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
           "titleTrace": "TRACE IVOIRE"
-        },
-        {
-          "descriptionTrace": "Trace Latine est une chaîne de télévision de la musique latine",
-          "sourceTrace": [
-            "https://d35j504z0x2vu2.cloudfront.net:443/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/87c4ef3c-7482-40b9-accd-caf0af5bb053/1.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "824",
-          "thumbTrace": "https://od.lk/s/M18yODY0NjQxOTZf/tracelatine.png",
-          "titleTrace": "TRACE LATINE"
         },
         {
           "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
