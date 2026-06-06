@@ -65,6 +65,16 @@
           "titleTrace": "TRACE CARIBBEAN"
         },
         {
+          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/AFRICA_FR/.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "825",
+          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NjVf/traceAfricatv.png",
+          "titleTrace": "TRACE AFRICA"
+        },
+        {
           "descriptionTrace": "Trace Teranga TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
             "https://channels.trace.plus/Traceprod/TERANGA/.m3u8"
@@ -183,16 +193,6 @@
           "numberTrace": "823",
           "thumbTrace": "https://od.lk/s/M18yNzQ4NDUzNzBf/traceivoire.png",
           "titleTrace": "TRACE IVOIRE"
-        },
-        {
-          "descriptionTrace": "Trace Africa est une chaîne télévisée spécialisée dans la musique africaine et international.",
-          "sourceTrace": [
-            "http://145.239.5.177/206/index.m3u8"
-          ],
-          "subtitleTrace": "All Channel",
-          "numberTrace": "825",
-          "thumbTrace": "https://od.lk/s/NDZfOTE2MTk5NjVf/traceAfricatv.png",
-          "titleTrace": "TRACE AFRICA"
         },
         {
           "descriptionTrace": "Biso Music TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international...",
