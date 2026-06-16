@@ -187,7 +187,7 @@
         {
           "descriptionTrace": "Trace Brazil TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
-            "https://channels.trace.plus/Traceprod/BRAZIL/.m3u8"
+            "https://channels.trace.plus/Traceprod/BRAZIL/abr.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "819",
