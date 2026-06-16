@@ -32,7 +32,17 @@
           "subtitleTrace": "All Channel",
           "numberTrace": "808",
           "thumbTrace": "https://od.lk/s/NDZfOTMwMjk2OTNf/salsatv.png",
-          "titleTrace": "SON DE SALSA"
+          "titleTrace": "A SON DE SALSA"
+        },
+        {
+          "descriptionTrace": "Salsa TV est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
+          "sourceTrace": [
+            "https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/1.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "808",
+          "thumbTrace": "https://od.lk/s/NDZfOTMwMjk2OTNf/salsatv.png",
+          "titleTrace": "SALSA TV"
         },
         {
           "descriptionTrace": "Madras Music est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
@@ -475,14 +485,14 @@
           "titleTrace": "BLACK CLASSIC"
         },
         {
-          "descriptionTrace": "Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
+          "descriptionTrace": "Urban tv est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
           "sourceTrace": [
-            "https://channels.trace.plus/Traceprod/KITOKO/.m3u8"
+            "https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "808",
-          "thumbTrace": "https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg",
-          "titleTrace": "TRACE KITOKO"
+          "thumbTrace": "https://od.lk/s/NDZfOTMwMzIyMzhf/urbantele.jpg",
+          "titleTrace": "URBAN TV"
         }
       ]
     }
