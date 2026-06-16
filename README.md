@@ -5,7 +5,7 @@
       "name": "Movies",
       "videos": [
       {
-          "descriptionTrace": Urban tv est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
+          "descriptionTrace": "Urban tv est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
           "sourceTrace": [
             "https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8"
           ],
