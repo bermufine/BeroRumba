@@ -105,6 +105,16 @@
           "titleTrace": "TRACE VANILLA"
         },
         {
+          "descriptionTrace": "Trace Vanilla Islands TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "811",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTdf/tracevanilla.png",
+          "titleTrace": "VANILLA ISLANDS"
+        },
+        {
           "descriptionTrace": "Trace Mboa TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
             "https://channels.trace.plus/Traceprod/MBOA/.m3u8"
@@ -113,6 +123,16 @@
           "numberTrace": "812",
           "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTNf/tracemboa.png",
           "titleTrace": "TRACE MBOA"
+        },
+        {
+          "descriptionTrace": "Trace NGOMA TV est une chaîne télévisée spécialisée dans la musique international",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8"
+          ],
+          "subtitleTrace": "All Channel",
+          "numberTrace": "812",
+          "thumbTrace": "https://od.lk/s/NDZfOTE4NjAzMTNf/tracemboa.png",
+          "titleTrace": "TRACE NGOMA"
         },
         {
           "descriptionTrace": "Trace Caribbean TV est une chaîne télévisée spécialisée dans la musique international",
@@ -207,7 +227,7 @@
         {
           "descriptionTrace": "Trace UK TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
-            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
+            "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "820",
@@ -225,24 +245,54 @@
           "titleTrace": "TRACE BAZUKA"
         },
         {
-          "descriptionTrace": "Trace Urban TV est une chaîne télévisée spécialisée dans la musique international",
+          "descriptionTrace": "Trace Urban Africa TV est une chaîne télévisée spécialisée dans la musique international",
           "sourceTrace": [
-            "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8"
+            "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
           "numberTrace": "821",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
-          "titleTrace": "TRACE URBAN"
+          "titleTrace": "URBAN AFRICA"
         },
         {
-          "descriptionTrace": "Trace Urbain TV est la chaine consacrée à la musique d'Afrique et internationale....",
+          "descriptionTrace": "Trace Urbain Caribbean and Indian Ocean TV est la chaine consacrée à la musique d'Afrique et internationale....",
           "sourceTrace": [
-            "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
+            "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8"
           ],
           "subtitleTrace": "ALL Channel",
           "numberTrace": "822",
           "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
-          "titleTrace": "TRACE URBAN"
+          "titleTrace": "CARIBBEAN INDIA"
+        },
+        {
+          "descriptionTrace": "Trace Urbain France TV est la chaine consacrée à la musique d'Afrique et internationale....",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8"
+          ],
+          "subtitleTrace": "ALL Channel",
+          "numberTrace": "822",
+          "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
+          "titleTrace": "URBAN FRANCE"
+        },
+        {
+          "descriptionTrace": "Trace Urbain International TV est la chaine consacrée à la musique d'Afrique et internationale....",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8"
+          ],
+          "subtitleTrace": "ALL Channel",
+          "numberTrace": "822",
+          "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
+          "titleTrace": "URBAN WORLD"
+        },
+        {
+          "descriptionTrace": "Trace Urbain Southern Africa TV est la chaine consacrée à la musique d'Afrique et internationale....",
+          "sourceTrace": [
+            "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8"
+          ],
+          "subtitleTrace": "ALL Channel",
+          "numberTrace": "822",
+          "thumbTrace": "https://od.lk/s/M18yNjUzMDQ5MzVf/urban",
+          "titleTrace": "SOURTHERN AFRICA"
         },
         {
           "descriptionTrace": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique Rumba, Ndombolo et autres du congo. kinmedia1@gmail.com, Société de médias/d’actualités , kinmedia tv",
