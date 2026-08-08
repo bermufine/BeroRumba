@@ -545,14 +545,14 @@
           "titleTrace": "BLACK CLASSIC"
         },
         {
-          "descriptionTrace": "Urban tv est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres",
+          "descriptionTrace": "Music Na Biso Télévision est une chaîne professionnelle entièrement dédiée au divertissement et à la valorisation de la musique africaine. Conçue comme la vitrine incontournable de la culture et des rythmes du continent, la chaîne propose une programmation dynamique mêlant la diffusion de clips vidéo de haute qualité, des émissions exclusives et des actualités musicales. Des grands classiques de la rumba congolaise aux tendances urbaines contemporaines, elle célèbre la richesse, la créativité et l'identité de « notre musique » pour faire vibrer les téléspectateurs.",
           "sourceTrace": [
-            "https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8"
+            "http://music-na-biso.berosat.live/hls/live/MUSIC-BISO/index.m3u8"
           ],
           "subtitleTrace": "All Channel",
-          "numberTrace": "808",
-          "thumbTrace": "https://od.lk/s/NDZfOTMwMzIyMzhf/urbantele.jpg",
-          "titleTrace": "URBAN TV"
+          "numberTrace": "170",
+          "thumbTrace": "https://od.lk/thumb/M18zMzA5NDg3ODhf",
+          "titleTrace": "MUSIC NA BISO"
         }
       ]
     }
